@@ -1,0 +1,15 @@
+{
+  "name": "lab01_101281971_comp3133",
+  "version": "1.0.0",
+  "description": "Lab ex 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thi Thuy Nguyen",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parser": "^3.0.0"
+  }
+}
